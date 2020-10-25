@@ -1,3 +1,10 @@
 # Running Instructions
-Start netcat socket stream on port 9000:
-```nc -l 9000```
+Ensure Twitter API credentials have been exported as properties in your environment before running:
+
+```TWITTER_CONSUMER_KEY```
+
+```TWITTER_CONSUMER_SECRET```
+
+```TWITTER_ACCESS_TOKEN```
+
+```TWITTER_ACCESS_TOKEN_SECRET```
